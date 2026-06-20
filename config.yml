@@ -20,7 +20,7 @@ menu:
           weight: 2
 
 params:
-    description: "Portfolio website of Udula Dewmina Kaveeshwara - Software Development Student."
+    description: "Portfolio website of Udula Dewmina Kaveeshwara - Cyber Security Student."
     author: Udula Dewmina Kaveeshwara
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -46,8 +46,8 @@ params:
     profileMode:
           enabled: true
           title: Udula Dewmina Kaveeshwara
-          subtitle: "Software Development student currently following a Higher National Diploma (HND) in Technology. Specializing in Software Development, passionate about learning new technologies, sports, and team activities."
-          imageUrl: "picture.png"
+          subtitle: "Cyber Security student currently following a Higher National Diploma (HND) in Technology. Specializing in Cyber Security, passionate about learning new technologies, sports, and team activities."
+          imageUrl: "pic2.png"
           imageWidth: 160
           imageHeight: 160
           buttons:
